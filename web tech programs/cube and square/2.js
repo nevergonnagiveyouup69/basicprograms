@@ -1,6 +1,6 @@
 function sc()
 {
-rng=prompt('Enter the range');
+rng=prompt('Enter_the_range');
 res=rng.split("-");
 if(res.length!=2)
 {
